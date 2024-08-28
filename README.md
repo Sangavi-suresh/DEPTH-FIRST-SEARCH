@@ -70,7 +70,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 <hr>
 #program:
-```
+
 
 from collections import deque
 from collections import defaultdict
